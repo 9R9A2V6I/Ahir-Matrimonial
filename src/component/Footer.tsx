@@ -25,7 +25,7 @@ function Footer() {
               <FaYoutube size={24} color="black" />
             </div>
           </div>
-          <div className="flex justify-center items-center gap-6 lg:gap-8 mt-5 w-full">
+          <div className="flex justify-center items-center gap-5 lg:gap-8 mt-5 w-full">
             <h1 className="lg:text-[18px]  text-[14px] lg:font-semibold font-medium heading text-white">Home</h1>
             <h1 className="lg:text-[18px]  text-[16px] lg:font-semibold font-medium heading text-white">Bribe</h1>
             <h1 className="lg:text-[18px]  text-[16px] lg:font-semibold font-medium heading text-white">Groom</h1>
