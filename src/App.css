@@ -5,6 +5,7 @@
   justify-content: start;
   align-items: start;
   flex-direction: column;
+  background-color: #fff;
   
 }
 .loginContainer {

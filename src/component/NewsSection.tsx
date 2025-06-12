@@ -6,7 +6,7 @@ function NewsSection() {
     <>
       <div className='w-[90%] flex justify-center items-center flex-col mt-4'>
         <h1 className=' heading lg:text-[40px] text-[25px]  font-semibold '>Today News</h1>
-        <div className='flex justify-around items-center lg:gap-10 gap-10 mt-5 '>
+        <div className='flex justify-around items-center lg:gap-10 gap-3 mt-5 '>
           <img src={img1} alt="" className='w-4/12 lg:h-[200px] h-[130px] rounded-lg ' />
           <div className="w-7/12">
             <h1 className='heading lg:text-[30px] text-[16px] font-semibold  lg:leading-[45px]'>Publication of the website of Ahir Yadav Samaj</h1>
