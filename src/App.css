@@ -1,0 +1,44 @@
+#root {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+  
+}
+.loginContainer {
+  background: url("./assets//Bg-images//pexels-kumar-saurabh-625146-1456613.jpg") no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  text-align: center;
+}
+
+.loginContainer::before {
+  content: "";
+  display: block;
+  -webkit-filter: blur(1px) brightness(0.5);
+  -moz-filter: blur(1px) brightness(0.5);
+  -ms-filter: blur(1px) brightness(0.5);
+  -o-filter: blur(1px) brightness(0.5);
+  filter: blur(1px) brightness(0.5);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: inherit;
+  z-index: 0;
+}
+
+.title{
+   font-family: "Montserrat", sans-serif;
+}
+.heading{
+   font-family: "Roboto", sans-serif;
+}
+.interFamily{
+  font-family: "Inter", sans-serif;
+}
