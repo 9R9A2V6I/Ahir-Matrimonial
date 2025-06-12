@@ -4,7 +4,7 @@ function TeamSection() {
   return (
     <>
       <div className='w-[95%] flex justify-center items-center flex-col mt-4'>
-        <h1 className=' heading lg:text-[55px] text-[25px]  font-semibold '>Team Members</h1>
+        <h1 className=' heading lg:text-[40px] text-[25px]  font-semibold '>Team Members</h1>
         <div className="flex justify-start items-start mt-3 overflow-x-scroll">
           <div className="flex flex-row gap-4  lg:gap-10">
             <div className="flex flex-col items-start">

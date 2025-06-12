@@ -26,16 +26,16 @@ function Navbar() {
           <h1 className="text-[30px] font-semibold text-white">Logo</h1>
           <div className='flex  justify-around lg:gap-8 gap-4 items-center'>
             <div className=' p-1 rounded-full border border-white hover:bg-black/80 hover:border-none'>
-              <IoPersonOutline size={24} color='white' className='cursor-pointer' />
+              <IoPersonOutline size={20} color='white' className='cursor-pointer' />
             </div>
             <div className=' p-1 rounded-full border border-white relative  hover:bg-black/80 hover:border-none'>
 
               <div className='absolute  h-2 w-2  rounded-full bg-red-600 top-1 right-2  '></div>
-              <IoIosNotificationsOutline size={28} color='white' className='cursor-pointer' />
+              <IoIosNotificationsOutline size={20} color='white' className='cursor-pointer' />
 
             </div>
             <div className=' p-1 rounded-full border border-white   hover:bg-black/80 hover:border-none'>
-              <CiMenuFries size={28} color='white' className='cursor-pointer' />
+              <CiMenuFries size={20} color='white' className='cursor-pointer' />
             </div>
           </div>
 

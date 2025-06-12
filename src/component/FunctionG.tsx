@@ -5,7 +5,7 @@ function FunctionG() {
   return (
     <>
       <div className='w-[95%] flex justify-center items-center flex-col mt-5'>
-        <h1 className='text-center font-semibold heading text-[25px] lg:text-[55px] mb-5'>
+        <h1 className='text-center font-semibold heading text-[25px] lg:text-[40px] mb-5'>
           Functions Gallery
         </h1>
 
