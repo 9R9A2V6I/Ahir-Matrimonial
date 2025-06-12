@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <>
       <div className=' w-screen flex justify-center items-center absolute top-0'>
-        <div className='w-11/12 flex h-12  lg:h-20  justify-between items-center'>
+        <div className='w-11/12 flex  h-14  lg:h-20  justify-between items-center'>
           {/* <svg width="70" height="70" viewBox="0 0 107 108" fill="none" xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink">
             <path d="M51.8281 25.6401C56.675 33.1392 65.1088 38.103 74.7021 38.103C75.8655 38.103 77.0118 38.0289 78.1367 37.8872C81.9136 42.9628 84.1494 49.253 84.1494 56.0659C84.1493 72.9007 70.5027 86.5481 53.668 86.5483C36.833 86.5483 23.1856 72.9008 23.1855 56.0659C23.1855 39.8486 35.8496 26.5912 51.8281 25.6401ZM53.123 34.8374C41.0981 34.8374 31.3497 44.585 31.3496 56.6099C31.3496 68.6348 41.0981 78.3833 53.123 78.3833C65.1479 78.3832 74.8955 68.6348 74.8955 56.6099C74.8954 44.5851 65.1479 34.8375 53.123 34.8374Z" fill="#FEBE00" />
