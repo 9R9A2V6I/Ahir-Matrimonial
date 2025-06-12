@@ -9,6 +9,7 @@ import { CiCircleChevRight, CiCircleChevLeft } from "react-icons/ci";
 import NewsSection from '../component/NewsSection'
 import TeamSection from '../component/TeamSection'
 import FunctionG from '../component/FunctionG'
+import SpecialFun from '../component/SpecialFun'
 
 
 const slides = [bgImg1, bgImg2, bgImg3, bgImg4, bgImg5];
@@ -61,6 +62,7 @@ function Home() {
       <NewsSection />
       <TeamSection />
       <FunctionG />
+      <SpecialFun/>
     </div>
   )
 }
