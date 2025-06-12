@@ -29,10 +29,10 @@ function Home() {
 
 
   useEffect(() => {
-    setInterval(() => {
+    const interval =setInterval(() => {
       nextSlide()
     }, 3000)
-   
+    return () => clearInterval(interval);
   }, [])
   return (
     <div className='w-full flex  justify-center items-center flex-col'>
@@ -62,7 +62,7 @@ function Home() {
       <NewsSection />
       <TeamSection />
       <FunctionG />
-      <SpecialFun/>
+      <SpecialFun />
     </div>
   )
 }
