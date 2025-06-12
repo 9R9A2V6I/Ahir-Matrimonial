@@ -3,7 +3,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        primaryBtn: '#D8465C', 
+        primaryBtn: '#D8465C',
+        footerBg: "#01040D"
       },
     },
   },

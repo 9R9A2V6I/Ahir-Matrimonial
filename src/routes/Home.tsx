@@ -10,6 +10,8 @@ import NewsSection from '../component/NewsSection'
 import TeamSection from '../component/TeamSection'
 import FunctionG from '../component/FunctionG'
 import SpecialFun from '../component/SpecialFun'
+import GroomBribe from '../component/GroomBribe'
+import Footer from '../component/Footer'
 
 
 const slides = [bgImg1, bgImg2, bgImg3, bgImg4, bgImg5];
@@ -63,6 +65,8 @@ function Home() {
       <TeamSection />
       <FunctionG />
       <SpecialFun />
+      <GroomBribe/>
+      <Footer/>
     </div>
   )
 }

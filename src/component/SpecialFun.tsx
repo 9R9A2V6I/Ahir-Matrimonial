@@ -29,19 +29,19 @@ function SpecialFun() {
           <div className="lg:w-6/12 w-11/12 flex justify-center items-start flex-col gap-5">
             <div className=" w-11/12 flex  justify-center items-center gap-2 ">
               <p className="interFamily w-full lg:text-[11px] text-[10px] mt-1 font-semibold">नव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिलिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना। मानव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना।</p>
-              <img src={img1} alt="" className="lg:w-4/12 w-6/12 rounded-xl" />
+              <img src={img1} alt="" className="lg:w-4/12 w-7/12 rounded-xl" />
             </div>
             <div className=" w-11/12 flex  justify-center items-center gap-2 ">
               <p className="interFamily w-full lg:text-[11px] text-[10px] mt-1 font-semibold">नव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिलिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना। मानव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना।</p>
-              <img src={img1} alt="" className="lg:w-4/12 w-6/12 rounded-xl" />
+              <img src={img1} alt="" className="lg:w-4/12 w-7/12 rounded-xl" />
             </div>
             <div className=" w-11/12 flex  justify-center items-center gap-2 ">
               <p className="interFamily w-full lg:text-[11px] text-[10px] mt-1 font-semibold">नव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिलिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना। मानव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना।</p>
-              <img src={img1} alt="" className="lg:w-4/12 w-6/12 rounded-xl" />
+              <img src={img1} alt="" className="lg:w-4/12 w-7/12 rounded-xl" />
             </div>
             <div className=" w-11/12 flex  justify-center items-center gap-2 ">
               <p className="interFamily w-full lg:text-[11px] text-[10px] mt-1 font-semibold">नव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिलिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना। मानव के सर्वांगीण विकास के लिए पिछड़े क्षेत्र में विभिन्न सामाजिक सेवा गतिविधियाँ चलाना।</p>
-              <img src={img1} alt="" className="lg:w-4/12 w-6/12 rounded-xl" />
+              <img src={img1} alt="" className="lg:w-4/12 w-7/12 rounded-xl" />
             </div>
           </div>
 
