@@ -54,20 +54,20 @@ function Login() {
     <div className='w-full h-screen flex justify-center items-start  '>
       <div className='w-full h-screen loginContainer'></div>
       <div className='w-11/12 absolute'>
-        <div className='mt-4'>
+        <div className='lg:mt-4 mt-2'>
           <h1 className='font-medium text-[35px] text-white heading'>Logo</h1>
         </div>
-        <div className='lg:w-11/12 w-full flex justify-center items-center lg:mt-4 mt-16 lg:flex-row flex-col '>
+        <div className='lg:w-11/12 w-full flex justify-center items-center mt-4  lg:flex-row flex-col '>
           <div className='lg:w-6/12 w-11/12'>
-            <h1 className='heading w-full lg:w-11/12 text-[33px] lg:text-[45px] font-semibold text-white leading-[38px] lg:leading-[55px]'>
+            <h1 className='heading w-full lg:w-11/12 text-[22px] lg:text-[45px] font-semibold text-white leading-[23px] lg:leading-[55px]'>
               Ahir Yadav Vivah Made Easy – Connect. Communicate. Commit.
             </h1>
-            <p className='title w-full lg:w-10/12  text-[19px] lg:text-[22px] font-light text-red-100 leading-[24px] lg:leading-[35px] mt-2 lg:mt-5'>
+            <p className='title w-full lg:w-10/12  text-[16px] lg:text-[22px] font-light text-red-100 leading-[18px] lg:leading-[35px] mt-2 lg:mt-5'>
               A trusted platform for the Ahir Yadav community to find meaningful matrimonial connections.
             </p>
           </div>
-          <div className='lg:w-6/12 w-full flex justify-end items-center flex-col lg:flex-row lg:mt-0 mt-7'>
-            <form onSubmit={handleSubmit} className='lg:w-8/12 w-10/12 lg:h-[450px] bg-black/40 rounded-md p-3'>
+          <div className='lg:w-6/12 w-full flex justify-end items-center flex-col lg:flex-row lg:mt-0 mt-2'>
+            <form onSubmit={handleSubmit} className='lg:w-8/12 w-10/12 h-[400px] lg:h-[450px] bg-black/40 rounded-md p-3'>
               <div className='mt-3'>
                 <h1 className='title text-[18px] text-white interFamily'>Username</h1>
                 <input
